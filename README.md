@@ -12,4 +12,6 @@ pure c++ project for  file transfer use tcp protocol
 =======
 # uploadfile
 socket上传文件
->>>>>>> 0c24a88c7d0fe26dadf16f6ba079ed7a44e28f29
+=======
+# uploadfile
+socket上传文件

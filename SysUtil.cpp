@@ -22,3 +22,9 @@ bool IsFileExist(const char *dir){
 	DWORD ret = GetFileAttributesA(dir);
 	return ret!=INVALID_FILE_ATTRIBUTES;
 }
+/*add hotspot by changxin 2019-1-6 below*/
+void printfile(const char* str)
+{
+	print("%s",str);
+}
+/*add hotspot by changxin 2019-1-6 above*/

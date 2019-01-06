@@ -22,6 +22,7 @@ inline string ExtractFileName(const string  & name)
 DWORD GetSizeOfFile(LPCTSTR FileName);
 bool IsDirExist(const char *dir);
 bool IsFileExist(const char *dir);
-
-
+/*add hotspot by changxin 2019-1-6 below*/
+void printfile(const char* str)
+/*add hotspot by changxin 2019-1-6 above*/
 #endif
